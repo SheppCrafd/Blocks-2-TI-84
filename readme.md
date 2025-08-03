@@ -1,11 +1,6 @@
 # Paper Minecrafd for the TI 84 CE
 
-A Minecraft-esque game based on [Blocks](https://github.com/TheScienceElf/Blocks-TI-84) for the TI 84 CE calculator. In it you can generate natural-looking worlds, place up to 24 different kinds of blocks, keep up to 5 saves, and enjoy real-time shadow effects, transparent water, and a 10 FPS framerate! (Made with ChatGPT's help, of course.)
-WARNING: takes up a LOT of RAM!!! (Thumb drive reccomended)
-
-![Screenshot](Screenshot.png)
-
-Note that the triangular screen-tearing
-is an artifact of the emulator, and doesn't show up when running on real hardware.
+A Minecraft-esque game based on [Blocks](https://github.com/TheScienceElf/Blocks-TI-84).
 
 *NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.* 
+
